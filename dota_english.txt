@@ -24,13 +24,13 @@
 		"npc_dota_hero_skeleton_king"		"Skeleton King"
 		"npc_dota_hero_storm_spirit"		"Stromboli Spirit"
 		"npc_dota_hero_sand_king"			"Sand-kun"
-		"npc_dota_hero_nevermore"			"Sweaty Friend"
+		"npc_dota_hero_nevermore"			"Sweaty Fiend"
 		"npc_dota_hero_drow_ranger"			"drrrngr"
 		"npc_dota_hero_axe"					"Le Balanced Axe Man"
 		"npc_dota_hero_bloodseeker"			"Butt Seeker"
 		"npc_dota_hero_phantom_lancer"		"Lag Maker"
 		"npc_dota_hero_razor"				"Yaozor"
-		"npc_dota_hero_morphling"			"Morbling"
+		"npc_dota_hero_morphling"			"2.5k Polygon wave"
 		"npc_dota_hero_zuus"				"Zus"
 		"npc_dota_hero_tiny"				"Tony"
 		"npc_dota_hero_puck"				"Puck The Magical Nonbinary Dragon"
@@ -66,11 +66,11 @@
 		"npc_dota_hero_broodmother"			"Broodmilf"
 		"npc_dota_hero_bounty_hunter"		"Mr.Walletman Bountybags"
 		"npc_dota_hero_weaver"				"Waver"
-		"npc_dota_hero_jakiro"				"Flying Trashbag"
+		"npc_dota_hero_jakiro"				"Hakkiro Flying Trashbag"
 		"npc_dota_hero_batrider"			"Bat"
 		"npc_dota_hero_chen"				"Obama"
 		"npc_dota_hero_spectre"				"Spooktre"
-		"npc_dota_hero_doom_bringer"		"Doomer"
+		"npc_dota_hero_doom_bringer"		"Dom da dom"
 		"npc_dota_hero_ancient_apparition"	"Kapparition"
 		"npc_dota_hero_ursa"				"Bear"
 		"npc_dota_hero_spirit_breaker"		"Borker"
@@ -80,7 +80,7 @@
 		"npc_dota_hero_silencer"			"Nordstrom's"
 		"npc_dota_hero_obsidian_destroyer"	"Outhouse Defiler"
 		"npc_dota_hero_lycan"				"Rycan"
-		"npc_dota_hero_brewmaster"			"Pandarian DEI"
+		"npc_dota_hero_brewmaster"			"Druncle"
 		"npc_dota_hero_shadow_demon"		"Ebola Demon"
 		"npc_dota_hero_lone_druid"			"Actual Furry"
 		"npc_dota_hero_chaos_knight"		"Chocolate Knight"
@@ -392,7 +392,7 @@
 		"DOTA_Tooltip_ability_life_stealer_rage"										"Madge"	
 		"DOTA_Tooltip_ability_life_stealer_feast"										"Eat Ass"
 		"DOTA_Tooltip_ability_life_stealer_open_wounds"									"Open Asshole"
-		"DOTA_Tooltip_ability_life_stealer_open_wounds_tooltip_range"					"RANGE:"
+		//"DOTA_Tooltip_ability_life_stealer_open_wounds_tooltip_range"					"RANGE:"
 		"DOTA_Tooltip_ability_life_stealer_infest"										"Crawl Inside Asshole"
 		"DOTA_Tooltip_ability_life_stealer_control"										"Kontol"
 		"DOTA_Tooltip_ability_life_stealer_consume"										"Consoom"
@@ -419,19 +419,19 @@
 		//VENGEFUL
 		"DOTA_Tooltip_ability_vengefulspirit_magic_missile"								"Magic Missile"
 		"DOTA_Tooltip_ability_vengefulspirit_wave_of_terror"							"Wave of Armor Reduction"
-		"DOTA_Tooltip_ability_vengefulspirit_command_aura"								"Half Life 3"
+		"DOTA_Tooltip_ability_vengefulspirit_command_aura"								"Best Aura"
 		"DOTA_Tooltip_ability_vengefulspirit_nether_swap"								"Neither Swap"
 		
 		//WITCHDOCTOR
 		"DOTA_Tooltip_ability_witch_doctor_paralyzing_cask"								"Da Coconut"
 		"DOTA_Tooltip_ability_witch_doctor_voodoo_restoration"							"Jared Skill"
-		"DOTA_Tooltip_ability_witch_doctor_maledict"									"Maledick"
+		"DOTA_Tooltip_ability_witch_doctor_maledict"									"Male-dick"
 		"DOTA_Tooltip_ability_witch_doctor_death_ward"									"Death of Ward"
 
 		//LESHRAC
-		"DOTA_Tooltip_ability_leshrac_split_earth"										"Skill Floor"
-		"DOTA_Tooltip_ability_leshrac_diabolic_edict"									"Diabolic Edick"
-		"DOTA_Tooltip_ability_leshrac_lightning_storm"									"Lightning Stromboli"
+		"DOTA_Tooltip_ability_leshrac_split_earth"										"Circle of Sadness"
+		"DOTA_Tooltip_ability_leshrac_diabolic_edict"									"Edick™"
+		"DOTA_Tooltip_ability_leshrac_lightning_storm"									"Chain Zap"
 		"DOTA_Tooltip_ability_leshrac_pulse_nova"										"Good Radiance"
 
 		//JUGGERNAUT
@@ -441,7 +441,7 @@
 		"DOTA_Tooltip_ability_juggernaut_omni_slash"									"Many Chop"
 		
 		//PUDGE
-		"DOTA_Tooltip_ability_pudge_meat_hook"											"Meat Huck"
+		"DOTA_Tooltip_ability_pudge_meat_hook"											"Legally Required Hooking Skill"
 		"DOTA_Tooltip_ability_pudge_rot"												"Body Odor"
 		"DOTA_Tooltip_ability_pudge_flesh_heap"											"Obesity"
 		"DOTA_Tooltip_ability_pudge_dismember"											"Eat"
@@ -455,7 +455,7 @@
 		"DOTA_Tooltip_ability_bane_fiends_grip"											"Fiend's Grip"
 		
 		//EARTHSHAKER
-		"DOTA_Tooltip_ability_earthshaker_fissure"										"Stationary Burrow Strike"
+		"DOTA_Tooltip_ability_earthshaker_fissure"										"#BuildTheWall"
 		"DOTA_Tooltip_ability_earthshaker_enchant_totem"								"Play Bongo"
 		"DOTA_Tooltip_ability_earthshaker_aftershock"									"Aftershook"
 		"DOTA_Tooltip_ability_earthshaker_echo_slam"									"Slam Jam"
@@ -476,8 +476,8 @@
 		
 		//SVEN
 		"DOTA_Tooltip_ability_sven_storm_bolt"											"Steven Airlines"
-		"DOTA_Tooltip_ability_sven_great_cleave"										"Battlefury 2"
-		"DOTA_Tooltip_ability_sven_warcry"												"Crimson Guard 2"
+		"DOTA_Tooltip_ability_sven_great_cleave"										"Orginal Battlefury"
+		"DOTA_Tooltip_ability_sven_warcry"												"Orginal Crimson Guard"
 		"DOTA_Tooltip_ability_sven_gods_strength"										"Da Red Makes It Hit Harder"
 		
 		//PHANTOM ASSASSIN
@@ -513,14 +513,15 @@
 		//BLOOD SEEKER
 		"DOTA_Tooltip_ability_bloodseeker_bloodrage"									"Bludrage"
 		"DOTA_Tooltip_ability_bloodseeker_blood_bath"									"Blud Right"
-		"DOTA_Tooltip_ability_bloodseeker_thirst"										"Goon"
+		"DOTA_Tooltip_ability_bloodseeker_thirst"										"Sniffer's Activate"
 		"DOTA_Tooltip_ability_bloodseeker_rupture"										"Anal Bleeding"
 		
 		//AXE
 		"DOTA_Tooltip_ability_axe_berserkers_call"										"Taunt"
-		"DOTA_Tooltip_ability_axe_battle_hunger"										"Dylan Skill"
+		"DOTA_Tooltip_ability_axe_battle_hunger"										"Anti-Dylan Skill"
+		"DOTA_Tooltip_ability_axe_battle_hunger_Lore"									"What do you mean I have to deny??!? -Dylan"
 		"DOTA_Tooltip_ability_axe_counter_helix"										"Spin to Win"
-		"DOTA_Tooltip_ability_axe_counter_helix_Description"							"Cut you down like cornwood"
+		"DOTA_Tooltip_ability_axe_counter_helix_Lore"									"Cut you down like cornwood"
 		"DOTA_Tooltip_ability_axe_culling_blade"										"Dunk on them"
 		
 		//PHANTOM LANCER
@@ -561,7 +562,7 @@
 		
 		//ZEUS
 		"DOTA_Tooltip_ability_zuus_arc_lightning"										"Chain Lightning"
-		"DOTA_Tooltip_ability_zuus_lightning_bolt"										"Electrogem"
+		"DOTA_Tooltip_ability_zuus_lightning_bolt"										"TM24"
 		"DOTA_Tooltip_ability_zuus_static_field"										"Static Field"
 		"DOTA_Tooltip_ability_zuus_thundergods_wrath"									"ZUUS ULT NOW"
 		
@@ -572,7 +573,7 @@
 		"DOTA_Tooltip_ability_tiny_grow"												"Enbiggen"
 		
 		//PUCK
-		"DOTA_Tooltip_ability_puck_illusory_orb"										"ORB"
+		"DOTA_Tooltip_ability_puck_illusory_orb"										"PONDER THE ORB"
 		"DOTA_Tooltip_ability_puck_waning_rift"											"Waning Rift"
 		"DOTA_Tooltip_ability_puck_phase_shift"											"Phase Shift"
 		"DOTA_Tooltip_ability_puck_dream_coil"											"Dream Coil"
