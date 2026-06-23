@@ -66,7 +66,6 @@
 		"npc_dota_hero_broodmother"			"Broodmilf"
 		"npc_dota_hero_bounty_hunter"		"Mr.Walletman Bountybags"
 		"npc_dota_hero_weaver"				"Waver"
-		"npc_dota_hero_jakiro"				"Hakkiro Flying Trashbag"
 		"npc_dota_hero_batrider"			"Bat"
 		"npc_dota_hero_chen"				"Obama"
 		"npc_dota_hero_spectre"				"Spooktre"
@@ -365,7 +364,7 @@
 		"DOTA_Tooltip_ability_antimage_mana_break"										"Mana Break"
 		"DOTA_Tooltip_ability_antimage_blink"											"Blink"
 		"DOTA_Tooltip_ability_antimage_blink_lore"										"The Secret Queen lives up to her title, making her pain impossible to escape."
-		"DOTA_Tooltip_ability_antimage_spell_shield"									"10,000 Gold Item"
+		"DOTA_Tooltip_ability_antimage_spell_shield"									"Reflex Check"
 		"DOTA_Tooltip_ability_antimage_mana_void"										"Sunder Cabal"
 		
 		//QUEEN OF PAIN
@@ -389,7 +388,7 @@
 		"DOTA_Tooltip_ability_mirana_starfall"											"Starstorm"
 
 		//LIFESTEALER
-		"DOTA_Tooltip_ability_life_stealer_rage"										"Madge"	
+		"DOTA_Tooltip_ability_life_stealer_rage"										"Get Madge"	
 		"DOTA_Tooltip_ability_life_stealer_feast"										"Eat Ass"
 		"DOTA_Tooltip_ability_life_stealer_open_wounds"									"Open Asshole"
 		//"DOTA_Tooltip_ability_life_stealer_open_wounds_tooltip_range"					"RANGE:"
@@ -407,7 +406,7 @@
 		"DOTA_Tooltip_ability_windrunner_shackleshot"									"Shackleshoot"
 		"DOTA_Tooltip_ability_windrunner_powershot"										"Powershoot"
 		"DOTA_Tooltip_ability_windrunner_windrun"										"Windginge"
-		"DOTA_Tooltip_ability_windrunner_focusfire"										"Aimbot"
+		"DOTA_Tooltip_ability_windrunner_focusfire"										"Soldier 76's Ultimate Ablity: Tactical Visor "
 		
 		//LION
 		"DOTA_Tooltip_ability_lion_impale"												"Spiiiike"
@@ -419,7 +418,7 @@
 		//VENGEFUL
 		"DOTA_Tooltip_ability_vengefulspirit_magic_missile"								"Magic Missile"
 		"DOTA_Tooltip_ability_vengefulspirit_wave_of_terror"							"Wave of Armor Reduction"
-		"DOTA_Tooltip_ability_vengefulspirit_command_aura"								"Best Aura"
+		"DOTA_Tooltip_ability_vengefulspirit_command_aura"								"Safe-laner Assitance Program"
 		"DOTA_Tooltip_ability_vengefulspirit_nether_swap"								"Neither Swap"
 		
 		//WITCHDOCTOR
@@ -432,12 +431,12 @@
 		"DOTA_Tooltip_ability_leshrac_split_earth"										"Circle of Sadness"
 		"DOTA_Tooltip_ability_leshrac_diabolic_edict"									"Edick™"
 		"DOTA_Tooltip_ability_leshrac_lightning_storm"									"Chain Zap"
-		"DOTA_Tooltip_ability_leshrac_pulse_nova"										"Good Radiance"
+		"DOTA_Tooltip_ability_leshrac_pulse_nova"										"Better Radiance"
 
 		//JUGGERNAUT
-		"DOTA_Tooltip_ability_juggernaut_blade_fury"									"Spinning"
+		"DOTA_Tooltip_ability_juggernaut_blade_fury"									"Long Form Spinning"
 		"DOTA_Tooltip_ability_juggernaut_healing_ward"									"Aggro Puller"
-		"DOTA_Tooltip_ability_juggernaut_blade_dance"									"Lane Griefer"
+		"DOTA_Tooltip_ability_juggernaut_blade_dance"									"Blade Dance"
 		"DOTA_Tooltip_ability_juggernaut_omni_slash"									"Many Chop"
 		
 		//PUDGE
@@ -461,7 +460,7 @@
 		"DOTA_Tooltip_ability_earthshaker_echo_slam"									"Slam Jam"
 		
 		//SANDKING
-		"DOTA_Tooltip_ability_sandking_burrowstrike"									"Yolo Burrowstrike"
+		"DOTA_Tooltip_ability_sandking_burrowstrike"									"Yolostrike"
 		"DOTA_Tooltip_ability_sandking_sand_storm"										"Dududududu"
 		"DOTA_Tooltip_ability_sandking_caustic_finale"									"Sploodge"
 		"DOTA_Tooltip_ability_sandking_epicenter"										"Epic Enter"
@@ -475,7 +474,7 @@
 		"DOTA_Tooltip_ability_nevermore_requiem"										"Requiem of Souls"
 		
 		//SVEN
-		"DOTA_Tooltip_ability_sven_storm_bolt"											"Steven Airlines"
+		"DOTA_Tooltip_ability_sven_storm_bolt"											"Stun Fist"
 		"DOTA_Tooltip_ability_sven_great_cleave"										"Orginal Battlefury"
 		"DOTA_Tooltip_ability_sven_warcry"												"Orginal Crimson Guard"
 		"DOTA_Tooltip_ability_sven_gods_strength"										"Da Red Makes It Hit Harder"
@@ -531,7 +530,7 @@
 		"DOTA_Tooltip_ability_phantom_lancer_juxtapose"									"Ja'pose"
 		
 		//YAOZOR
-		"DOTA_Tooltip_ability_razor_plasma_field"										"Not-Plasma Field"
+		"DOTA_Tooltip_ability_razor_plasma_field"										"Plasma Field"
 		"DOTA_Tooltip_ability_razor_static_link"										"Damage Succ"
 		"DOTA_Tooltip_ability_razor_unstable_current"									"Spectrum Internet"
 		"DOTA_Tooltip_ability_razor_eye_of_the_storm"									"Eye of the Storm"
@@ -591,7 +590,7 @@
 		"DOTA_Tooltip_ability_rattletrap_power_cogs_description"						"Forms a barrier of energized cocks around Cockwerk, trapping any units that are near. Enemies outside the trap that touch a cock are knocked back and have their cocks crushed, losing health and mana. Once a cock has delivered a shock, it will power down. Cocks can be destroyed by enemy attacks, but Cockwerk can destroy them with just one."
 		"Dota_Tooltip_ability_rattletrap_power_cogs_lore"								"Cock and ball torture (CBT), occasionally known as penis torture, dick torture, or male genitorture/male genital torture, is a sexual activity involving the application of pain or constriction to the penis or testicles. This may involve directly painful activities, such as genital piercing, wax play, genital spanking, squeezing, ball-busting, genital flogging, urethral play, tickle torture, erotic electrostimulation, kneeing or kicking."
 		"DOTA_Tooltip_ability_rattletrap_rocket_flare"									"Cocket Flare"
-		"DOTA_Tooltip_ability_rattletrap_hookshot"										"Other Hook Skill"
+		"DOTA_Tooltip_ability_rattletrap_hookshot"										"Reverse Hook Skill"
 
 		//LICH
 		"DOTA_Tooltip_ability_lich_frost_nova"											"Frost Blast"
@@ -880,36 +879,16 @@
 
 
 		// Largo
-		"DOTA_Tooltip_ability_largo_catchy_lick"
-			"Molest"
-
-		"DOTA_Tooltip_ability_largo_catchy_lick_Description"
-			"Ewwwwwww....."
-
-		"DOTA_Tooltip_ability_largo_frogstomp"
-			"Summon the homies"
-
-		"DOTA_Tooltip_ability_largo_croak_of_genius"
-			"Share earbuds"
-			
-		"DOTA_Tooltip_ability_largo_croak_of_genius_Description"
-			"Yeah you should check these guys out, they're pretty underground still though. *plays Imagine Dragons*"
-
-		"DOTA_Tooltip_ability_largo_amphibian_rhapsody"
-			"Jam"
-
-
-		"DOTA_Tooltip_ability_largo_song_fight_song"
-			"The Raspberry"
-
-		"DOTA_Tooltip_ability_largo_song_fight_song_Description"
-			"LOOOOONNNNESSSTTTTAAAARRRR"
-
-		"DOTA_Tooltip_ability_largo_song_double_time"
-			"The Blueberry"
-
-		"DOTA_Tooltip_ability_largo_song_good_vibrations"
-			"The Strawberry"
+		"DOTA_Tooltip_ability_largo_catchy_lick"									"Molest"
+		"DOTA_Tooltip_ability_largo_catchy_lick_Lore"								"Ewwwwwww....."
+		"DOTA_Tooltip_ability_largo_frogstomp"										"Summon the homies"
+		"DOTA_Tooltip_ability_largo_croak_of_genius"								"Share earbuds"
+		"DOTA_Tooltip_ability_largo_croak_of_genius_Lore"							"Yeah you should check these guys out, they're pretty underground still though. *plays Imagine Dragons*"
+		"DOTA_Tooltip_ability_largo_amphibian_rhapsody"								"Jam"
+		"DOTA_Tooltip_ability_largo_song_fight_song"								"The Raspberry"
+		"DOTA_Tooltip_ability_largo_song_fight_song_Lore"							"LOOOOONNNNESSSTTTTAAAARRRR"
+		"DOTA_Tooltip_ability_largo_song_double_time"								"The Blueberry"
+		"DOTA_Tooltip_ability_largo_song_good_vibrations"							"The Strawberry"
 
 		// Lycan
 		"DOTA_Tooltip_ability_lycan_summon_wolves"									"Yiff Party"
