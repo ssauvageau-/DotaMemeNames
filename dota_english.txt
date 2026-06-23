@@ -26,7 +26,7 @@
 		"npc_dota_hero_sand_king"			"Sand-kun"
 		"npc_dota_hero_nevermore"			"Sweaty Fiend"
 		"npc_dota_hero_drow_ranger"			"drrrngr"
-		"npc_dota_hero_axe"					"Le Balanced Axe Man"
+		"npc_dota_hero_axe"					"Axe.png"
 		"npc_dota_hero_bloodseeker"			"Butt Seeker"
 		"npc_dota_hero_phantom_lancer"		"Lag Maker"
 		"npc_dota_hero_razor"				"Yaozor"
